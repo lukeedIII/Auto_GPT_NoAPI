@@ -3,7 +3,7 @@
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository
 - pip3 install -r requirements.txt
 - cd OtherAgent/
 - Choose or develop your agent [ csvAgent.py  ;  pythonAgent.py  ; customAgent.py ]
