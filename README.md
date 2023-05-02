@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/108482353/235354639-998f0a40-3d2d-4f33
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository
 - pip3 install -r requirements.txt
 - streamlit run Camel.py
 
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/108482353/235199747-c2dbdd27-80d6-4950
 
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository
 - pip3 install -r requirements.txt
 - Usage: **python BABYAGI.py**
 
@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/108482353/234963635-004adace-36ab-46de
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository
 - pip3 install -r requirements.txt
 - Usage: **python AUTOGPT.py**
 
