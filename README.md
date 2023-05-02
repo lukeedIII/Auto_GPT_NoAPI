@@ -1,31 +1,29 @@
-
-# USE AI AGENTs, like AUTO-GPT or BABYAGI, without paids API😤  **TOTALLY FOR FREE🤑**
+# USE AI AGENTs, like AUTO-GPT or BABYAGI, without paids API😤   **TOTALLY FOR FREE🤑**  
 
 Tired of paying for OPENAI, PINECONE, GOOGLESEARCH APIs to try out the latest developments in the AI field?
-Perfect, **this is the repository for you! 🎁**
+Perfect, **this is the repository for you! 🎁**   
 
-For any problem open an ISSUE 🚬, the project is very simple so any help is welcome💸.
+For any problem open an ISSUE 🚬, the project is very simple so any help is welcome💸.      
 
-**Are you bored reading😴? Do you want to try our project now⏳? Open the notebook on Colab everything is ready!** 
+**Are you bored reading😴? Do you want to try our project now⏳? Open the notebook on Colab everything is ready!**   
 
-**RUN NOW ON COLAB😮** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14854fi6oO4lXqR3_mt6tc2Lr2IsA12oq?usp=sharing)
-⚠️ Abusing this tool is at your own risk
+**RUN NOW ON COLAB😮** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14854fi6oO4lXqR3_mt6tc2Lr2IsA12oq?usp=sharing)   
+⚠️ Abusing this tool is at your own risk  
 
-<img width="1383" height="250" alt="image" src="img/GH2.gif">
+<img width="1383" height="250" alt="image" src="img/GH2.gif">  
 
-By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API?style=social)](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API/stargazers) and all the support!!
-
-## WHY THIS REPOSITORY ? 🤔
-
-Hello everyone :smiling_face_with_three_hearts: ,
-
-I wanted to start by **talking about how important it is to democratize AI**. Unfortunately, most new applications or discoveries in this field end up enriching some big companies, leaving behind small businesses or simple projects. One striking example of this is Autogpt, an autonomous AI agent capable of performing tasks.
-
-Autogpt and similar projects like BabyAGI **only work with paid APIs, which is not fair**. That's why I tried to recreate a simpler but very interesting and, above all, open-source version of Autogpt that **does not require any API and does not need any particular hardware.**
-
-I believe that by providing free and open-source AI tools, we can give small businesses and individuals the opportunity to create new and innovative projects without the need for significant financial investment. **This will allow for more equitable and diverse access to AI technology, which is essential for advancing society as a whole.**
+By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API?style=social)](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API/stargazers) and all the support!!  
 
 
+## Motivation and Purpose
+
+I wanted to start by discussing the importance of democratizing AI. Unfortunately, most new applications or discoveries in this field end up enriching large technology companies, while leaving smaller organizations and individuals behind. One example is Autogpt, an autonomous AI agent capable of performing tasks independently.  
+
+Autogpt and similar projects like BabyAGI currently rely on paid APIs, which limits their accessibility. I aimed to develop a simplified open-source version of Autogpt that does not require any API and can run on basic hardware. 
+
+By providing free and open-source AI tools, we can give smaller businesses and individuals the opportunity to create new and innovative projects without significant investment. This will allow for more equitable and diverse access to AI technology, which is essential for advancing society.
+
+Overall, this repository offers a streamlined Autogpt model that can generate coherent, unprompted text for academic, commercial and personal use at no cost. I hope this resource spurs new AI applications and fuels continued progress in the field. Please open an issue for any questions, concerns or suggestions. Contributions to improve the model and repository are welcome.
 
 -----
 
