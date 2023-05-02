@@ -18,3 +18,5 @@ pytest-playwright
 undetected-chromedriver>=3.2.1
 markdownify>=0.11.6
 hugchat
+pinecone-client==2.2.1
+openai==0.27.2
